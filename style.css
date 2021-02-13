@@ -1,0 +1,74 @@
+
+.logo{margin-top: 2px;
+    width: 100px;
+    height: 70px;
+    text-align: center;
+    
+}
+.name{
+    text-align: center;
+    font-size: 22px;
+margin: 0px 200px 0px 200px;
+padding: 0px auto;
+
+
+}
+
+
+.header{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.box{
+    height: 100%;
+    width: 97%;
+    border: 3px  double black;
+    margin: 0px auto;
+    margin-right: 3px auto !important;
+    vertical-align: middle;
+}
+.table{
+    border: solid black;
+    width:100% ;
+    margin: 0px auto;
+}
+.icons{
+    width: 25px;
+    height: 25px;
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.icon-box{
+    text-align: center;
+    display: flex;
+    margin-left: 200px;
+
+    
+    
+}
+.cell{
+    border:2px solid black;
+    font-size: 14px;
+}
+.cell-data{
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 11px;
+}
+.bull{
+    list-style: disc;
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: -15px;
+    
+}
+
+li{
+    font-size: 13px;
+    
+}
